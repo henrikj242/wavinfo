@@ -7,3 +7,5 @@ The make-assimilator-preset.rb script generates very basic preset file for the R
 It takes two arguments: a wavefilename and a presetname (.yml format)
 The wavefile will be analyzed for loops, and if any exist, the first one will
 be specified in the preset, since the assimil8or does not read loop info from samples.
+
+The scripts are intended just for my own personal use, so please don't expect them to work for you just as they are.
